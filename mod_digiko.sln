@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C++ Express 2008
+# Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mod_digiko", "mod_digiko.vcproj", "{159A15D4-95C8-4570-8E17-49C430926E6D}"
 EndProject
 Global
